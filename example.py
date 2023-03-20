@@ -1,3 +1,4 @@
+# string is sequence of characters
 snake_case = "My Name is Md Ayub Ali"
 # print(snake_case.capitalize())
 # print(snake_case.upper())
