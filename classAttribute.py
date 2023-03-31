@@ -6,13 +6,13 @@ class Sample():
         # pass
         # Class object 
         full_name = "Md Ayub Ali"
-        # instance creation
+        # create instace of class
         # self if used to access the attributes
         def __init__(self,age,profession): 
                 # attribute
                 self.age = age
                 self.profession  = profession
        
-result = Sample(26,profession="Web Developer")
+result = Sample(26, profession = "Web Developer")
 
 print(f"I am {result.age} years old, and I am professional {result.profession} ")
